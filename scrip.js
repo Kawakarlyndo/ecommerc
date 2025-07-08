@@ -2,7 +2,7 @@
  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
 
  //VOCÊ DEVE SUBSTITUIR OS CÓDIGOS ABAIXOS CÓDIGOS DO SEU PROJETO NO FIREBASE (FIREBASE CONFIGURATION)
- const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyCGHYT4oC-GVKaFW_6RBHy1zrgd5wihDcM",
   authDomain: "portfolio-91d7b.firebaseapp.com",
   databaseURL: "https://portfolio-91d7b-default-rtdb.firebaseio.com",
