@@ -1,12 +1,13 @@
 // Configuração do Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyBh3ZmJSlllOGdopvPj0dacRUK0RSCCjy4",
-    authDomain: "endlessgameka.firebaseapp.com",
-    databaseURL: "https://endlessgameka-default-rtdb.firebaseio.com",
-    projectId: "endlessgameka",
-    storageBucket: "endlessgameka.appspot.com",
-    messagingSenderId: "489819955531",
-    appId: "1:489819955531:web:a0d7627cd1acdca64288ce"
+    apiKey: "AIzaSyCGHYT4oC-GVKaFW_6RBHy1zrgd5wihDcM",
+    authDomain: "portfolio-91d7b.firebaseapp.com",
+    databaseURL: "https://portfolio-91d7b-default-rtdb.firebaseio.com",
+    projectId: "portfolio-91d7b",
+    storageBucket: "portfolio-91d7b.firebasestorage.app",
+    messagingSenderId: "6133951328",
+    appId: "1:6133951328:web:4f5efca1c3deb2ddf50c05",
+    measurementId: "G-FMYLX10FDS"
 };
 
 // Inicialize o Firebase
