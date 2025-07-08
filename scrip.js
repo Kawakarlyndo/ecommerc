@@ -3,13 +3,14 @@
 
  //VOCÊ DEVE SUBSTITUIR OS CÓDIGOS ABAIXOS CÓDIGOS DO SEU PROJETO NO FIREBASE (FIREBASE CONFIGURATION)
  const firebaseConfig = {
-    apiKey: "AIzaSyCe4iYHsApW4RpCl8-v0NgtUZP15RCcqsk",
-    authDomain: "firestore-bcfb7.firebaseapp.com",
-    databaseURL: "https://firestore-bcfb7-default-rtdb.firebaseio.com",
-    projectId: "firestore-bcfb7",
-    storageBucket: "firestore-bcfb7.appspot.com",
-    messagingSenderId: "405005781101",
-    appId: "1:405005781101:web:b7a64ef31fc86721a69764"
+   apiKey: "AIzaSyCGHYT4oC-GVKaFW_6RBHy1zrgd5wihDcM",
+   authDomain: "portfolio-91d7b.firebaseapp.com",
+   databaseURL: "https://portfolio-91d7b-default-rtdb.firebaseio.com",
+   projectId: "portfolio-91d7b",
+   storageBucket: "portfolio-91d7b.firebasestorage.app",
+   messagingSenderId: "6133951328",
+   appId: "1:6133951328:web:4f5efca1c3deb2ddf50c05",
+   measurementId: "G-FMYLX10FDS"
  };
 
  // Initialize Firebase
